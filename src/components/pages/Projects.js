@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, Route, Routes } from 'react-router-dom';
 import Project from './Project';
+import projects from '../projects.json';
 
 function Projects(props) {
   return (
@@ -31,6 +32,23 @@ function Projects(props) {
       <Link to="project6" role="button" className="btn btn-link">
         Project 6
       </Link>
+
+      {/* add friend card from class activity 2.7 */}
+      <Wrapper>
+        <Title>Friends List</Title>
+        {this.state.friends.map(friend => (
+          <FriendCard
+            removeFriend={this.removeFriend}
+            id={friend.id}
+            key={friend.id}
+            name={friend.name}
+            image={friend.image}
+            occupation={friend.occupation}
+            location={friend.location}
+          />
+        ))}
+      </Wrapper>
+
       <Routes>
         <Route path="learn" element={<Learn />} />
       </Routes>
