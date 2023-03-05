@@ -5,8 +5,9 @@ import './style.css';
 function Header() {
   const image = require(`../../images/emoji-web-dev-female.png`);
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/"><img src={image} alt="avatar emoji" />
+    <nav className="navbar navbar-expand-sm navbar-light bg-light">
+      <Link className="navbar-brand" to="/" style={{ marginRight: "54px", color: "rgb(9, 155, 180)", fontStyle: "italic", fontSize: "30px"}}>
+      <img src={image} width="48px" style={{ margin: "0 15px"}} alt="avatar icon" />
         Jingyue
       </Link>
       <div>
