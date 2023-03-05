@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import './style.css';
 
 function Home() {
@@ -12,9 +13,10 @@ function Home() {
               <div className="mx-auto">
                 <h1 className="jumboText mb-5">Welcome to my site!</h1>
                 <h2 className="jumboText mb-5">My name is Jingyue.</h2>
-                <h3 className="jumboText mb-5">I'm a front-end web developer.</h3>
-                <a href="/#contact" className="btn btn-outline-warning btn-xl js-scroll-trigger"
-                  role="button">Let's collaborate!</a>
+                <h3 className="jumboText mb-5">I'm a front-end web developer with a passion for creating excellent user experiences.</h3>
+                <Link to="contact" role="button" className="btn btn-warning btn-xl rounded-pill js-scroll-trigger">
+                  Let's collaborate!
+                </Link>
               </div>
             </div>
             <div className="col-lg-7 my-auto">
@@ -25,18 +27,16 @@ function Home() {
           </div>
         </div>
       </div>
-
-      <h1>Home Page</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
-        varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
-        Etiam ut feugiat ex. Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-        imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum
-        ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare
-        elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-        consequat. Vestibulum vitae lorem tortor. In elementum ultricies tempus. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus.
-      </p>
+      {/* Information about GitHub, LinkedIn, CV, Email, Phone number */}
+      <div className="container-fluid">
+        <div className="infoContainer d-flex flex-wrap justify-content-center justify-content-xl-around">
+          <a className="btn btn-info rounded-pill" href="https://github.com/dr-jingyuezhao" role="button">My GitHub</a>
+          <a className="btn btn-info rounded-pill" href="https://www.linkedin.com/" role="button">My LinkedIn</a>
+          <a className="btn btn-info rounded-pill" href="/#" role="button">My CV</a>
+          <a className="btn btn-info rounded-pill" href="mailto:jingyue@site.com" role="button">Email Me</a>
+          <a className="btn btn-info rounded-pill" href="/#" role="button">Call Me</a>
+        </div>
+      </div>
     </div >
   );
 }

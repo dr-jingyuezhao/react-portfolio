@@ -3,10 +3,8 @@ import "./style.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <div className="container-fluid">
+    <footer className="container-fluid customFooter">
         <p>&copy; Jingyue's portfolio site 2023. All Rights Reserved.</p>
-      </div>
     </footer>
   );
 }
