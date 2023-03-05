@@ -3,9 +3,10 @@ import { Link, NavLink } from 'react-router-dom';
 import './style.css';
 
 function Header() {
+  const image = require(`../../images/emoji-web-dev-female.png`);
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/">
+      <Link className="navbar-brand" to="/"><img src={image} alt="avatar emoji" />
         Jingyue
       </Link>
       <div>
