@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom';
 import './style.css';
 
 function Home() {
-  const image = require(`../../images/my-wd-img.jpg`);
+  const image = require(`../../assets/images/my-wd-img.jpg`);
+  const myCV = require(`../../assets/documents/CV_Mar2023.pdf`);
   return (
     <div>
       <div className="jumbotron">
@@ -28,13 +29,13 @@ function Home() {
         </div>
       </div>
       {/* Information about GitHub, LinkedIn, CV, Email, Phone number */}
-      <div className="container-fluid">
-        <div className="infoContainer d-flex flex-wrap justify-content-center justify-content-xl-around">
-          <a className="btn btn-info rounded-pill" href="https://github.com/dr-jingyuezhao" role="button">My GitHub</a>
-          <a className="btn btn-info rounded-pill" href="https://www.linkedin.com/" role="button">My LinkedIn</a>
-          <a className="btn btn-info rounded-pill" href="/#" role="button">My CV</a>
+      <div className="customContainer container-fluid">
+        <div className="infoBtns d-flex flex-wrap justify-content-center justify-content-xl-around">
+          <a className="btn btn-info rounded-pill" href="https://github.com/dr-jingyuezhao" target="_blank" rel="noopener noreferrer" role="button">My GitHub</a>
+          <a className="btn btn-info rounded-pill" href="https://www.linkedin.com/in/jingyue-zhao-ph-d-78770232/" target="_blank" rel="noopener noreferrer" role="button">My LinkedIn</a>
+          <a className="btn btn-info rounded-pill" href={myCV} target="_blank" rel="noopener noreferrer" role="button">My CV</a>
           <a className="btn btn-info rounded-pill" href="mailto:jingyue@site.com" role="button">Email Me</a>
-          <a className="btn btn-info rounded-pill" href="/#" role="button">Call Me</a>
+          <a className="btn btn-info rounded-pill" href="tel:123-456-7890" role="button">Call Me</a>
         </div>
       </div>
     </div >
