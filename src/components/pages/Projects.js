@@ -1,7 +1,11 @@
 import React from "react";
 import { Link, Route, Routes } from 'react-router-dom';
+import Learn from './Learn';
 import Project from './Project';
-import projects from '../projects.json';
+import projects from '../../projects.json';
+import Wrapper from '../Wrapper';
+import Title from '../Title';
+import FriendCard from '../FriendCard';
 
 function Projects(props) {
   return (
