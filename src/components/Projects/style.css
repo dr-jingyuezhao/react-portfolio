@@ -1,0 +1,30 @@
+.jumbotron {
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    background-image: url("../../assets/images/coding-wallpaper-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jumboText {
+    /* position: relative; */
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 4px 4px 8px white;
+}
+
+.infoBtns a {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 45px;
+    margin: 12px 30px;
+    color: rgb(249, 207, 41);
+}
+

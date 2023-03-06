@@ -1,3 +1,19 @@
+.sectionHeading {
+  font-weight: bold;
+  color: var(--blue-color);
+  margin-bottom: 30px;
+}
+
+/* work section: Cards */
+.card-title {
+  font-weight: bold;
+  color: var(--blue-color);
+}
+
+
+
+
+
 .card {
   background: #fff;
   border-radius: 2px;

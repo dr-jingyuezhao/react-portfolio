@@ -1,42 +1,48 @@
 [
   {
     "id": 1,
-    "projectTitle": "blog-inspirite",
+    "title": "blog-inspirite",
+    "description": "A blogging platform with a creative writing twist",
     "image": "./assets/images/project_1_home-page.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
   },
   {
     "id": 2,
-    "projectTitle": "weather-dashboard",
+    "title": "weather-dashboard",
+    "description": "",
     "image": "./assets/images/pro_2_weather-dashboard.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/weather-dashboard/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/weather-dashboard"
   },
   {
     "id": 3,
-    "projectTitle": "Daily-planner",
+    "title": "Daily-planner",
+    "description": "",
     "image": "./assets/images/pro_3_daily-planner.gif",
     "appLink": "https://dr-jingyuezhao.github.io/Daily-planner/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Daily-planner"
   },
   {
     "id": 4,
-    "projectTitle": "Coding-quiz",
+    "title": "Coding-quiz",
+    "description": "",
     "image": "./assets/images/pro_4_coding-quiz.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/Coding-quiz/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Coding-quiz"
   },
   {
     "id": 5,
-    "projectTitle": "Password-Generator",
+    "title": "Password-Generator",
+    "description": "",
     "image": "./assets/images/pro_5_password-generator.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/Password-Generator/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Password-Generator"
   },
   {
     "id": 6,
-    "projectTitle": "Bootstrap-Portfolio",
+    "title": "Bootstrap-Portfolio",
+    "description": "",
     "image": "./assets/images/pro_6_bootstrap-portfolio.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/Bootstrap-Portfolio/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Bootstrap-Portfolio"
