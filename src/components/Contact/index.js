@@ -16,7 +16,7 @@ function Contact() {
           Let's collaborate!
         </Link>
       </Jumbotron>
-        {/* Must have a contact form for handling events */}
+      {/* Must have a contact form for handling events */}
     </div >
   );
 }

@@ -11,7 +11,7 @@ function ProjectCard(props) {
         <div className="card-body text-center">
           <h5 className="card-title text-capitalize"><strong style={{ color: "rgb(9, 155, 180)", fontSize: "30px", lineHeight: "3rem" }}>Project title: </strong><br />{props.title}</h5>
           <p className="card-text">{props.description}.</p>
-          <ul className="cardInfo" style={{color: "rgb(9, 155, 180)"}}>
+          <ul className="cardInfo" style={{ color: "rgb(9, 155, 180)" }}>
             <li>
               <Link className="cardInfo font-weight-bold" to={props.appLink} style={{ color: "rgb(9, 155, 180)", fontSize: "20px" }}>
                 <strong>The App Link</strong>
