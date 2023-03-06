@@ -1,0 +1,14 @@
+.jumbotron {
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    background-image: url("../../assets/images/coding-wallpaper-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

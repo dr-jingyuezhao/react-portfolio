@@ -3,9 +3,9 @@ import './style.css';
 
 function ContactInfo() {
   const myCV = require(`../../assets/documents/JZhao_CV_Mar2023.pdf`);
+  // Information about GitHub, LinkedIn, CV, Email, Phone number
   return (
     <section>
-      {/* Information about GitHub, LinkedIn, CV, Email, Phone number */}
       <div className="customContainer container-fluid">
         <div className="infoBtns d-flex flex-wrap justify-content-center justify-content-xl-around">
           <a className="btn btn-info rounded-pill" href="https://github.com/dr-jingyuezhao" target="_blank" rel="noopener noreferrer" role="button">My GitHub</a>
