@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "projectTitle": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "appLink": "Fry Cook",
-    "githubRepoLink": "A Pineapple Under the Sea"
+    "projectTitle": "blog-inspirite",
+    "image": "./assets/images/project_1_home-page.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
   },
   {
     "id": 2,
-    "projectTitle": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "appLink": "Restaurant Owner",
-    "githubRepoLink": "A Giant Anchor"
+    "projectTitle": "weather-dashboard",
+    "image": "./assets/images/pro_2_weather-dashboard.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/weather-dashboard/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/weather-dashboard"
   },
   {
     "id": 3,
-    "projectTitle": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "appLink": "Cashier",
-    "githubRepoLink": "An Easter Island Head"
+    "projectTitle": "Daily-planner",
+    "image": "./assets/images/pro_3_daily-planner.gif",
+    "appLink": "https://dr-jingyuezhao.github.io/Daily-planner/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/Daily-planner"
   },
   {
     "id": 4,
-    "projectTitle": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "appLink": "Boy Genius",
-    "githubRepoLink": "A Secret Laboratory"
+    "projectTitle": "Coding-quiz",
+    "image": "./assets/images/pro_4_coding-quiz.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/Coding-quiz/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/Coding-quiz"
   },
   {
     "id": 5,
-    "projectTitle": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "appLink": "A Cowardly Dog",
-    "githubRepoLink": "Nowhere, Kansas"
+    "projectTitle": "Password-Generator",
+    "image": "./assets/images/pro_5_password-generator.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/Password-Generator/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/Password-Generator"
   },
   {
     "id": 6,
-    "projectTitle": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "appLink": "Student",
-    "githubRepoLink": "Bluffington"
+    "projectTitle": "Bootstrap-Portfolio",
+    "image": "./assets/images/pro_6_bootstrap-portfolio.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/Bootstrap-Portfolio/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/Bootstrap-Portfolio"
   }
 ]
