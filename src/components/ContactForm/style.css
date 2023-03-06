@@ -1,0 +1,42 @@
+.form {
+    margin: 20px;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+  }
+  
+
+
+.jumboText {
+    /* position: relative; */
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 4px 4px 8px white;
+}
+
+.btn-xl {
+    font-size: 24px !important;
+    font-weight: bold !important;
+    font-style: italic;
+    color: rgb(20, 68, 73) !important;
+    padding: 15px 45px !important;
+    border-radius: 300px;
+    margin-bottom: 50px;
+}
+
+.customContainer {
+    margin: 24px 0;
+}
+
+.infoBtns a {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 45px;
+    margin: 12px 30px;
+    color: rgb(249, 207, 41);
+}
