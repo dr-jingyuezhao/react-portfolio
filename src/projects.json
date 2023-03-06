@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "title": "blog-inspirite",
-    "description": "A blogging platform with a creative writing twist",
-    "image": "./assets/images/project_1_home-page.jpg",
-    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
-    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
-  },
-  {
-    "id": 2,
-    "title": "weather-dashboard",
-    "description": "",
-    "image": "./assets/images/pro_2_weather-dashboard.jpg",
-    "appLink": "https://dr-jingyuezhao.github.io/weather-dashboard/",
-    "githubRepoLink": "https://github.com/dr-jingyuezhao/weather-dashboard"
-  },
-  {
-    "id": 3,
     "title": "Daily-planner",
-    "description": "",
-    "image": "./assets/images/pro_3_daily-planner.gif",
+    "description": "An app allows a user to save events for each hour of the day",
+    "image": "daily-planner.gif",
     "appLink": "https://dr-jingyuezhao.github.io/Daily-planner/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Daily-planner"
   },
   {
-    "id": 4,
+    "id": 2,
     "title": "Coding-quiz",
-    "description": "",
-    "image": "./assets/images/pro_4_coding-quiz.jpg",
+    "description": "An app can keep track of user's scores and initials with a timer",
+    "image": "coding-quiz.gif",
     "appLink": "https://dr-jingyuezhao.github.io/Coding-quiz/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Coding-quiz"
   },
   {
-    "id": 5,
+    "id": 3,
     "title": "Password-Generator",
-    "description": "",
-    "image": "./assets/images/pro_5_password-generator.jpg",
+    "description": "An app generates random password based on the selected criteria by a user",
+    "image": "password-generator.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/Password-Generator/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Password-Generator"
   },
   {
-    "id": 6,
+    "id": 4,
     "title": "Bootstrap-Portfolio",
-    "description": "",
-    "image": "./assets/images/pro_6_bootstrap-portfolio.jpg",
+    "description": "My first portfolio site created by using the Bootstrap CSS Framework",
+    "image": "bootstrap-portfolio.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/Bootstrap-Portfolio/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Bootstrap-Portfolio"
+  },
+  {
+    "id": 5,
+    "title": "weather-dashboard",
+    "description": "An app displays the weather outlook for multiple cities",
+    "image": "weather-dashboard.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/weather-dashboard/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/weather-dashboard"
+  },
+  {
+    "id": 6,
+    "title": "blog-inspirite",
+    "description": "A blogging platform with a creative writing twist",
+    "image": "project_1_home-page.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
   }
 ]
