@@ -4,7 +4,7 @@ import './style.css';
 
 function Home() {
   const image = require(`../../assets/images/my-wd-img.jpg`);
-  const myCV = require(`../../assets/documents/CV_Mar2023.pdf`);
+  const myCV = require(`../../assets/documents/JZhao_CV_Mar2023.pdf`);
   return (
     <div>
       <div className="jumbotron">

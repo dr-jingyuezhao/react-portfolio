@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './style.css';
 
 function Contact() {
-  const myCV = require(`../../assets/documents/CV_Mar2023.pdf`);
+  const myCV = require(`../../assets/documents/JZhao_CV_Mar2023.pdf`);
   return (
     <div>
       <div className="jumbotron">
