@@ -1,0 +1,11 @@
+.customContainer {
+    margin: 24px 0;
+}
+
+.infoBtns a {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 45px;
+    margin: 12px 30px;
+    color: rgb(249, 207, 41);
+}
