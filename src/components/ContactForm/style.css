@@ -2,17 +2,15 @@
     margin: 20px;
   }
   
-  .form input {
-    display: block;
+  /* .form input {
     margin-top: 5px;
     margin-bottom: 5px;
     width: 100%;
-  }
+  } */
   
 
 
 .jumboText {
-    /* position: relative; */
     color: white;
     font-weight: bold;
     font-style: italic;
@@ -33,10 +31,13 @@
     margin: 24px 0;
 }
 
-.infoBtns a {
-    font-size: 20px;
-    font-weight: bold;
-    padding: 15px 45px;
-    margin: 12px 30px;
-    color: rgb(249, 207, 41);
+.submitBtn {
+    font-weight: bold !important;
+    color: rgb(249, 207, 41) !important;
+    margin-top: 15px;
+    margin-bottom: 40px;
 }
+
+.submitBtn:hover {
+    color: rgb(7, 7, 7) !important;
+  }
