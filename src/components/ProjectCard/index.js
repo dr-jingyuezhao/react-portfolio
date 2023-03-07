@@ -1,9 +1,9 @@
 import React from "react";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 import "./style.css";
 
 function ProjectCard(props) {
-  const image = require(`../../assets/images/${props.image}`)
+  const image = require(`../../assets/images/${props.image}`);
   return (
     <div className="cardContainer col-sm-12 col-md-6 col-lg-4 mb-3">
       <div className="card">
@@ -11,19 +11,12 @@ function ProjectCard(props) {
         <div className="card-body text-center">
           <h5 className="card-title text-capitalize"><strong style={{ color: "rgb(9, 155, 180)", fontSize: "30px", lineHeight: "3rem" }}>Project title: </strong><br />{props.title}</h5>
           <p className="card-text">{props.description}.</p>
-          <ul className="d-flex flex-column align-items-center" style={{ color: "rgb(9, 155, 180)" }}>
-            <li>
-              <Link className="font-weight-bold" to={props.appLink} style={{ color: "rgb(9, 155, 180)", fontSize: "20px" }}>
-                <strong>The App Link</strong>
-              </Link>
-            </li>
-            <li>
-              <Link className="font-weight-bold" to={props.githubRepoLink} style={{ color: "rgb(9, 155, 180)", fontSize: "20px" }}>
-                <strong>GitHub Repo Link</strong>
-              </Link>
-            </li>
-          </ul>
-          <a className="moreBtn btn btn-info" href="https://github.com/dr-jingyuezhao" target="_blank" rel="noopener noreferrer" role="button">Learn More</a>
+          <div className="d-flex flex-column align-items-center">
+            <Link className="font-weight-bold" to={props.appLink} target="_blank" rel="noopener noreferrer" style={{ color: "rgb(9, 155, 180)", fontSize: "20px" }}>
+              <strong>The App Link</strong>
+            </Link>
+            <a className="moreBtn btn btn-info" href={props.githubRepoLink} target="_blank" rel="noopener noreferrer" role="button">Learn More</a>
+          </div>
         </div>
       </div>
     </div>
