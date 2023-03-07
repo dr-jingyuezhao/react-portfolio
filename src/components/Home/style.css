@@ -13,7 +13,7 @@
     color: rgb(20, 68, 73) !important;
     padding: 15px 45px !important;
     border-radius: 300px;
-    margin-bottom: 45px !important;
+    margin-bottom: 45px;
 }
 
 .btn-xl:hover {
