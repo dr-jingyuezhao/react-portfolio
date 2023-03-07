@@ -15,3 +15,7 @@
     border-radius: 300px;
     margin-bottom: 45px !important;
 }
+
+.btn-xl:hover {
+    color: rgb(40, 167, 180) !important;
+}
