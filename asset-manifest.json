@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.ed652de5.css",
-    "main.js": "/react-portfolio/static/js/main.819439af.js",
+    "main.css": "/react-portfolio/static/css/main.c809fc1f.css",
+    "main.js": "/react-portfolio/static/js/main.1a84f2de.js",
     "static/media/daily-planner.gif": "/react-portfolio/static/media/daily-planner.5b3f62cdcc4cafa34102.gif",
     "static/media/coding-quiz.gif": "/react-portfolio/static/media/coding-quiz.f809ce631baf42e3f7af.gif",
     "static/media/bootstrap-portfolio.jpg": "/react-portfolio/static/media/bootstrap-portfolio.6bebe52f63acab9a1d2d.jpg",
@@ -15,11 +15,11 @@
     "static/media/coding-wallpaper-3.jpg": "/react-portfolio/static/media/coding-wallpaper-3.fe9350f7046d107cfb72.jpg",
     "static/media/emoji-web-dev.svg": "/react-portfolio/static/media/emoji-web-dev.92bbd5289fb386c2d81c.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.ed652de5.css.map": "/react-portfolio/static/css/main.ed652de5.css.map",
-    "main.819439af.js.map": "/react-portfolio/static/js/main.819439af.js.map"
+    "main.c809fc1f.css.map": "/react-portfolio/static/css/main.c809fc1f.css.map",
+    "main.1a84f2de.js.map": "/react-portfolio/static/js/main.1a84f2de.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed652de5.css",
-    "static/js/main.819439af.js"
+    "static/css/main.c809fc1f.css",
+    "static/js/main.1a84f2de.js"
   ]
 }
