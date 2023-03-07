@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.bda498bb.css",
-    "main.js": "/react-portfolio/static/js/main.f2dd6153.js",
+    "main.css": "/react-portfolio/static/css/main.ed652de5.css",
+    "main.js": "/react-portfolio/static/js/main.819439af.js",
+    "static/media/daily-planner.gif": "/react-portfolio/static/media/daily-planner.5b3f62cdcc4cafa34102.gif",
+    "static/media/coding-quiz.gif": "/react-portfolio/static/media/coding-quiz.f809ce631baf42e3f7af.gif",
+    "static/media/bootstrap-portfolio.jpg": "/react-portfolio/static/media/bootstrap-portfolio.6bebe52f63acab9a1d2d.jpg",
+    "static/media/project_1_home-page.jpg": "/react-portfolio/static/media/project_1_home-page.6077642c5d29ab37c939.jpg",
+    "static/media/weather-dashboard.jpg": "/react-portfolio/static/media/weather-dashboard.74df4e14245efc82c277.jpg",
     "static/media/my-wd-img.jpg": "/react-portfolio/static/media/my-wd-img.48e26d6311270ad676af.jpg",
     "static/media/JZhao_CV_Mar2023.pdf": "/react-portfolio/static/media/JZhao_CV_Mar2023.f0da5f40c5cc60ced929.pdf",
+    "static/media/password-generator.jpg": "/react-portfolio/static/media/password-generator.43289f761414aab601ee.jpg",
+    "static/media/coding-wallpaper-1.jpg": "/react-portfolio/static/media/coding-wallpaper-1.15833a592d12624071f4.jpg",
+    "static/media/coding-wallpaper-2.jpg": "/react-portfolio/static/media/coding-wallpaper-2.ea22d07ed52df2ac0547.jpg",
     "static/media/coding-wallpaper-3.jpg": "/react-portfolio/static/media/coding-wallpaper-3.fe9350f7046d107cfb72.jpg",
+    "static/media/emoji-web-dev.svg": "/react-portfolio/static/media/emoji-web-dev.92bbd5289fb386c2d81c.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.bda498bb.css.map": "/react-portfolio/static/css/main.bda498bb.css.map",
-    "main.f2dd6153.js.map": "/react-portfolio/static/js/main.f2dd6153.js.map"
+    "main.ed652de5.css.map": "/react-portfolio/static/css/main.ed652de5.css.map",
+    "main.819439af.js.map": "/react-portfolio/static/js/main.819439af.js.map"
   },
   "entrypoints": [
-    "static/css/main.bda498bb.css",
-    "static/js/main.f2dd6153.js"
+    "static/css/main.ed652de5.css",
+    "static/js/main.819439af.js"
   ]
 }
