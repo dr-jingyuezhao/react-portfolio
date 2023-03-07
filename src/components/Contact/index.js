@@ -11,11 +11,13 @@ function Contact() {
       <Jumbotron>
         <div className="col my-auto text-center">
           <div className="mx-auto">
-            <h1 className="jumboText mb-4">Get in Touch!</h1>
-            <h3 className="jumboText mb-4" style={{ lineHeight: "4rem" }}>I'm available for freelance work.<br />Here's how you can find more about me and reach me.</h3>
+            <h1 className="jumboText mb-5">Get in Touch!</h1>
+            <h3 className="jumboText my-5" style={{ lineHeight: "3rem" }}>I'm available for freelance work.
+              <br />Here's how you can find more about me and reach me.
+            </h3>
             {/* Information about GitHub, LinkedIn, CV, Email, Phone number */}
             <ContactInfo />
-            <h4 className="jumboText my-4" style={{ lineHeight: "4rem" }}>I'd love to hear from you. You can send me a message by clicking the button below.</h4>
+            <h4 className="jumboText my-4" style={{ lineHeight: "3rem" }}>I'd love to hear from you. You can send me a message by clicking the button below.</h4>
             {/* Add a button for the link to ContactForm */}
             <Link to="ContactForm" role="button" className="btn btn-warning btn-xl rounded-pill js-scroll-trigger mb-3">
               Click to fill in the contact form now!
