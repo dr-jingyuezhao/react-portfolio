@@ -1,13 +1,13 @@
-import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
-import './style.css';
+import React from "react";
+import { Link, NavLink } from "react-router-dom";
+import "./style.css";
 
 function Header() {
-  const image = require(`../../assets/images/emoji-web-dev-female.png`);
+  const image = require("../../assets/images/emoji-web-dev-female.png");
   return (
     <nav className="navbar navbar-expand-sm navbar-light bg-light">
-      <Link className="navbar-brand" to="/" style={{ marginRight: "54px", color: "rgb(9, 155, 180)", fontStyle: "italic", fontSize: "30px"}}>
-      <img src={image} width="48px" style={{ margin: "0 15px"}} alt="avatar icon" />
+      <Link className="navbar-brand" to="/" style={{ marginRight: "54px", color: "rgb(9, 155, 180)", fontStyle: "italic", fontSize: "30px" }}>
+        <img src={image} width="48px" style={{ margin: "0 15px" }} alt="avatar icon" />
         Jingyue
       </Link>
       <div>
@@ -17,7 +17,7 @@ function Header() {
               to="/"
               end
               className={({ isActive }) =>
-                isActive ? 'nav-link active' : 'nav-link'
+                isActive ? "nav-link active" : "nav-link"
               }
             >
               Home
@@ -27,7 +27,7 @@ function Header() {
             <NavLink
               to="projects"
               className={({ isActive }) =>
-                isActive ? 'nav-link active' : 'nav-link'
+                isActive ? "nav-link active" : "nav-link"
               }
             >
               Projects
@@ -38,7 +38,7 @@ function Header() {
               to="contact"
               end
               className={({ isActive }) =>
-                isActive ? 'nav-link active' : 'nav-link'
+                isActive ? "nav-link active" : "nav-link"
               }
             >
               Contact
