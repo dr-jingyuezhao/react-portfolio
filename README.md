@@ -40,10 +40,13 @@ The portfolio contains the following information:
 
 **Application demo**
 
-The following images demonstrate the application's appearance and functionality:
+The following image and YouTube video demonstrate the application's appearance and functionality:
 
-![application demo](./assets/images/app-demo-1_2023-02-26.jpg)
-![application demo](./assets/images/app-demo-2_2023-02-26.jpg)
+![application demo](./src/assets/demo/React%20portfolio%20demo_gif_7Mar2023.gif)
+
+YouTube video:
+
+[![Watch the video](https://i9.ytimg.com/vi/TZVZZYBzIKc/mqdefault.jpg?sqp=COj1nqAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDkpWfOcRTlfNRCBos0TyaWV6X24g)](https://youtu.be/TZVZZYBzIKc)
 
 ## Credits
 
