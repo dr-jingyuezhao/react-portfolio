@@ -46,28 +46,40 @@ function ContactForm() {
       <form className="customForm">
         <div className="mx-auto px-3 row">
           <div className="col-md-6 col-xl-3 mb-3">
-            <input className="form-control" type="text" placeholder="First name"
+            <input
+              className="form-control"
+              type="text"
+              placeholder="First name"
               value={formData.firstName}
               name="firstName"
               onChange={handleInputChange}
             />
           </div>
           <div className="col-md-6 col-xl-3 mb-3">
-            <input className="form-control" type="text" placeholder="Last name"
+            <input
+              className="form-control"
+              type="text"
+              placeholder="Last name"
               value={formData.lastName}
               name="lastName"
               onChange={handleInputChange}
             />
           </div>
           <div className="col-xl-6 mb-3">
-            <input className="form-control" type="email" placeholder="Email address"
+            <input
+              className="form-control"
+              type="text"
+              placeholder="Email address"
               value={formData.email}
               name="email"
               onChange={handleInputChange}
             />
           </div>
           <div className="mb-3">
-            <textarea className="form-control" type="text" placeholder="Your message"
+            <textarea
+              className="form-control"
+              type="text"
+              placeholder="Your message"
               value={formData.message}
               name="message"
               onChange={handleInputChange}
