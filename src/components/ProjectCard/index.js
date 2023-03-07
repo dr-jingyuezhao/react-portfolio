@@ -13,9 +13,9 @@ function ProjectCard(props) {
           <p className="card-text">{props.description}.</p>
           <div className="d-flex flex-column align-items-center">
             <Link className="font-weight-bold" to={props.appLink} target="_blank" rel="noopener noreferrer" style={{ color: "rgb(9, 155, 180)", fontSize: "20px" }}>
-              <strong>The App Link</strong>
+              <strong>Link to the Project</strong>
             </Link>
-            <a className="moreBtn btn btn-info" href={props.githubRepoLink} target="_blank" rel="noopener noreferrer" role="button">Learn More</a>
+            <a className="moreBtn btn btn-info" href={props.githubRepoLink} target="_blank" rel="noopener noreferrer" role="button">Learn More on GitHub</a>
           </div>
         </div>
       </div>
