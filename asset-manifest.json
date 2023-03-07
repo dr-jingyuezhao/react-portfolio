@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c809fc1f.css",
-    "main.js": "/react-portfolio/static/js/main.1a84f2de.js",
+    "main.css": "/react-portfolio/static/css/main.79bf0b84.css",
+    "main.js": "/react-portfolio/static/js/main.3fe22f7c.js",
     "static/media/daily-planner.gif": "/react-portfolio/static/media/daily-planner.5b3f62cdcc4cafa34102.gif",
     "static/media/coding-quiz.gif": "/react-portfolio/static/media/coding-quiz.f809ce631baf42e3f7af.gif",
     "static/media/bootstrap-portfolio.jpg": "/react-portfolio/static/media/bootstrap-portfolio.6bebe52f63acab9a1d2d.jpg",
-    "static/media/project_1_home-page.jpg": "/react-portfolio/static/media/project_1_home-page.6077642c5d29ab37c939.jpg",
+    "static/media/blog-inspirite_home-page.jpg": "/react-portfolio/static/media/blog-inspirite_home-page.f299e3a65fed0827efc8.jpg",
     "static/media/weather-dashboard.jpg": "/react-portfolio/static/media/weather-dashboard.74df4e14245efc82c277.jpg",
     "static/media/my-wd-img.jpg": "/react-portfolio/static/media/my-wd-img.48e26d6311270ad676af.jpg",
     "static/media/JZhao_CV_Mar2023.pdf": "/react-portfolio/static/media/JZhao_CV_Mar2023.f0da5f40c5cc60ced929.pdf",
     "static/media/password-generator.jpg": "/react-portfolio/static/media/password-generator.43289f761414aab601ee.jpg",
-    "static/media/coding-wallpaper-1.jpg": "/react-portfolio/static/media/coding-wallpaper-1.15833a592d12624071f4.jpg",
-    "static/media/coding-wallpaper-2.jpg": "/react-portfolio/static/media/coding-wallpaper-2.ea22d07ed52df2ac0547.jpg",
-    "static/media/coding-wallpaper-3.jpg": "/react-portfolio/static/media/coding-wallpaper-3.fe9350f7046d107cfb72.jpg",
-    "static/media/emoji-web-dev.svg": "/react-portfolio/static/media/emoji-web-dev.92bbd5289fb386c2d81c.svg",
+    "static/media/coding-wallpaper.jpg": "/react-portfolio/static/media/coding-wallpaper.fe9350f7046d107cfb72.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.c809fc1f.css.map": "/react-portfolio/static/css/main.c809fc1f.css.map",
-    "main.1a84f2de.js.map": "/react-portfolio/static/js/main.1a84f2de.js.map"
+    "main.79bf0b84.css.map": "/react-portfolio/static/css/main.79bf0b84.css.map",
+    "main.3fe22f7c.js.map": "/react-portfolio/static/js/main.3fe22f7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c809fc1f.css",
-    "static/js/main.1a84f2de.js"
+    "static/css/main.79bf0b84.css",
+    "static/js/main.3fe22f7c.js"
   ]
 }
