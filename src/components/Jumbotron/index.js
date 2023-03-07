@@ -6,11 +6,7 @@ function Jumbotron(props) {
     <div className="jumbotron px-5">
       <div className="container h-100">
         <div className="row h-100">
-          <div className="col my-auto text-center">
-            <div className="mx-auto">
-              {props.children}
-            </div>
-          </div>
+          {props.children}
         </div>
       </div>
     </div>
