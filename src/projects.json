@@ -17,19 +17,19 @@
   },
   {
     "id": 3,
-    "title": "blog-inspirite",
-    "description": "A blogging platform with a creative writing twist to inspire users with prompts",
-    "image": "project_1_home-page.jpg",
-    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
-    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
-  },
-  {
-    "id": 4,
     "title": "weather-dashboard",
-    "description": "An app displays the weather outlook for multiple cities",
+    "description": "An app displays the weather outlook when a user searches for a city",
     "image": "weather-dashboard.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/weather-dashboard/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/weather-dashboard"
+  },
+  {
+    "id": 4,
+    "title": "blog-inspirite",
+    "description": "A blogging platform with a creative writing twist to inspire users with prompts",
+    "image": "blog-inspirite_home-page.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title": "Password-Generator",
-    "description": "An app generates random password based on the selected criteria by a user",
+    "description": "An app generates random password based on the user selected criteria",
     "image": "password-generator.jpg",
     "appLink": "https://dr-jingyuezhao.github.io/Password-Generator/",
     "githubRepoLink": "https://github.com/dr-jingyuezhao/Password-Generator"

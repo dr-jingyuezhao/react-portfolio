@@ -1,9 +1,8 @@
 .jumbotron {
     position: relative;
     width: 100%;
-    margin-bottom: 30px;
-    padding: 75px 20px !important;
-    background-image: url("../../assets/images/coding-wallpaper-3.jpg");
+    margin-bottom: 35px;
+    background-image: url("../../assets/images/coding-wallpaper.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
