@@ -1,43 +1,14 @@
-.form {
-    margin: 20px;
-  }
-  
-  /* .form input {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    width: 100%;
-  } */
-  
-
-
-.jumboText {
-    color: white;
-    font-weight: bold;
-    font-style: italic;
-    text-shadow: 4px 4px 8px white;
-}
-
-.btn-xl {
-    font-size: 24px !important;
-    font-weight: bold !important;
-    font-style: italic;
-    color: rgb(20, 68, 73) !important;
-    padding: 15px 45px !important;
-    border-radius: 300px;
-    margin-bottom: 50px;
-}
-
-.customContainer {
-    margin: 24px 0;
+.customForm {
+  margin: 20px;
 }
 
 .submitBtn {
-    font-weight: bold !important;
-    color: rgb(249, 207, 41) !important;
-    margin-top: 15px;
-    margin-bottom: 40px;
+  font-weight: bold !important;
+  color: rgb(249, 207, 41) !important;
+  margin-top: 15px;
+  margin-bottom: 40px;
 }
 
 .submitBtn:hover {
-    color: rgb(7, 7, 7) !important;
-  }
+  color: rgb(7, 7, 7) !important;
+}

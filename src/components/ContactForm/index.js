@@ -43,7 +43,7 @@ function ContactForm() {
       <h4 className="px-5 mb-3" style={{ lineHeight: "3rem", color: "rgb(9, 155, 180)" }}>
         Please complete and submit the form to contact me!
       </h4>
-      <form>
+      <form className="customForm">
         <div className="mx-auto px-3 row">
           <div className="col-md-6 col-xl-3 mb-3">
             <input className="form-control" type="text" placeholder="First name"
