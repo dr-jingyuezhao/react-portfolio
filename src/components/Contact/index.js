@@ -13,10 +13,10 @@ function Contact() {
           <div className="mx-auto">
             <h1 className="jumboText mb-5">Get in Touch!</h1>
             <h3 className="jumboText mb-3" style={{ lineHeight: "4rem" }}>I'm available for freelance work. <br />I'd like to hear from you.</h3>
-            {/* Information about GitHub, LinkedIn, CV, Email, Phone number */}
             <Link to="ContactForm" role="button" className="btn btn-warning btn-xl rounded-pill js-scroll-trigger">
               Click to fill in the contact form below!
             </Link>
+            {/* Information about GitHub, LinkedIn, CV, Email, Phone number */}
             <ContactInfo />
           </div>
         </div>
