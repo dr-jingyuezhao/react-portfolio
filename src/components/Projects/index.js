@@ -9,7 +9,7 @@ function Projects(props) {
     <Jumbotron>
       <div className="col my-auto text-center">
         <div className="mx-auto">
-          <h1 className="jumboText mb-5">Projects List</h1>
+          <h1 className="jumboText mb-5">Key Projects List</h1>
           {/* Section of project work */}
           <section id="work" className="page-section text-center">
             <div className="container-fluid">
