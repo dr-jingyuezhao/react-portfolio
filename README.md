@@ -1,7 +1,71 @@
-# Getting Started with Create React App
+# React-Portfolio
+Jingyue's Portfolio Site Created with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Discription
 
+This project is to develop the initial scaffolding of my portfolio site by using React and mobile-first design. The portfolio uses React and Navigation using React Router, dynamic rendering. It renders these 10 components: App, Header, Footer, Home page, Projects page, ProjectCard, Contact page, ContactInfo, ContactForm, and Jumbotron. The styles can be based on bootstrap with personalised color palette and additional touch. 
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [Available Scripts](#available-scripts)
+- [Learn More](#learn-more)
+
+## Installation
+
+The portfolio is successfully deployed on GitHub pages. However, there are some steps required to create a React App. 
+To install necessary dependencies, run the following command: `npx create-react-app my-app`
+
+## Usage
+
+The deployed application can be accessed following [this link](https://dr-jingyuezhao.github.io/react-portfolio/), and the repository can be accessed following [the link to GitHub repo](https://github.com/dr-jingyuezhao/react-portfolio).
+
+The portfolio contains the following information:
+- My name
+- Links to my:
+    - GitHub profile (My GitHub)
+    - LinkedIn page (My LinkedIn)
+    - CV in PDF format (My CV)
+    - Email address (Email Me)
+    - Phone number (Call Me)
+- Each project has the following information:
+    - Project title
+    - GIF or screenshot of the deployed application
+    - Link to the deployed version (Link to the Project)
+    - Link to the GitHub repository (Learn More on GitHub)
+
+**Application demo**
+
+The following images demonstrate the application's appearance and functionality:
+
+![application demo](./assets/images/app-demo-1_2023-02-26.jpg)
+![application demo](./assets/images/app-demo-2_2023-02-26.jpg)
+
+## Credits
+
+The application is created by following the instructions of Deploying a React App to GitHub Pages. Some JSX code is based on my bootstrap portfolio with modifications.
+
+Resources:
+
+- https://github.com/gitname/react-gh-pages
+- https://reactrouter.com/en/6.8.2
+- https://reactgo.com/react-open-link-new-tab/
+- https://stackoverflow.com/questions/45596329/display-pdf-in-reactjs
+- https://beta.reactjs.org/reference/react/useState
+
+## Contributing
+
+Create a personal fork of the project on Github and make a clean pull request.
+
+## Questions
+
+If you have any questions about this project, please open an issue or contact me directly at jzhao@gmail.com. 
+You can view my profile and find more of my work following [the link to my GitHub profile](https://github.com/dr-jingyuezhao/).
+ 
 ## Available Scripts
 
 In the project directory, you can run:
