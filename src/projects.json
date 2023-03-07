@@ -17,22 +17,14 @@
   },
   {
     "id": 3,
-    "title": "Password-Generator",
-    "description": "An app generates random password based on the selected criteria by a user",
-    "image": "password-generator.jpg",
-    "appLink": "https://dr-jingyuezhao.github.io/Password-Generator/",
-    "githubRepoLink": "https://github.com/dr-jingyuezhao/Password-Generator"
+    "title": "blog-inspirite",
+    "description": "A blogging platform with a creative writing twist to inspire users with prompts",
+    "image": "project_1_home-page.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
   },
   {
     "id": 4,
-    "title": "Bootstrap-Portfolio",
-    "description": "My first portfolio site created by using the Bootstrap CSS Framework",
-    "image": "bootstrap-portfolio.jpg",
-    "appLink": "https://dr-jingyuezhao.github.io/Bootstrap-Portfolio/",
-    "githubRepoLink": "https://github.com/dr-jingyuezhao/Bootstrap-Portfolio"
-  },
-  {
-    "id": 5,
     "title": "weather-dashboard",
     "description": "An app displays the weather outlook for multiple cities",
     "image": "weather-dashboard.jpg",
@@ -40,11 +32,19 @@
     "githubRepoLink": "https://github.com/dr-jingyuezhao/weather-dashboard"
   },
   {
+    "id": 5,
+    "title": "Bootstrap-Portfolio",
+    "description": "My first portfolio site created by using the Bootstrap CSS Framework",
+    "image": "bootstrap-portfolio.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/Bootstrap-Portfolio/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/Bootstrap-Portfolio"
+  },
+  {
     "id": 6,
-    "title": "blog-inspirite",
-    "description": "A blogging platform with a creative writing twist",
-    "image": "project_1_home-page.jpg",
-    "appLink": "https://dr-jingyuezhao.github.io/blog-inspirite/",
-    "githubRepoLink": "https://github.com/dr-jingyuezhao/blog-inspirite"
+    "title": "Password-Generator",
+    "description": "An app generates random password based on the selected criteria by a user",
+    "image": "password-generator.jpg",
+    "appLink": "https://dr-jingyuezhao.github.io/Password-Generator/",
+    "githubRepoLink": "https://github.com/dr-jingyuezhao/Password-Generator"
   }
 ]
